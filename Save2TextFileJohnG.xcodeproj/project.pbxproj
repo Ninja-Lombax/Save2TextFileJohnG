@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		561E6660252E423E006107C8 /* Save2TextFile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Save2TextFile.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		561E6660252E423E006107C8 /* Save2TextFileJohnGJohnG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Save2TextFileJohnGJohnG.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		561E6663252E423E006107C8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		561E6665252E423E006107C8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		561E6667252E423E006107C8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		561E6661252E423E006107C8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				561E6660252E423E006107C8 /* Save2TextFile.app */,
+				561E6660252E423E006107C8 /* Save2TextFileJohnGJohnG.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		561E665F252E423E006107C8 /* Save2TextFile */ = {
+		561E665F252E423E006107C8 /* Save2TextFileJohnG */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 561E6674252E4240006107C8 /* Build configuration list for PBXNativeTarget "Save2TextFile" */;
+			buildConfigurationList = 561E6674252E4240006107C8 /* Build configuration list for PBXNativeTarget "Save2TextFileJohnG" */;
 			buildPhases = (
 				561E665C252E423E006107C8 /* Sources */,
 				561E665D252E423E006107C8 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = Save2TextFile;
+			name = Save2TextFileJohnG;
 			productName = Save2TextFile;
-			productReference = 561E6660252E423E006107C8 /* Save2TextFile.app */;
+			productReference = 561E6660252E423E006107C8 /* Save2TextFileJohnGJohnG.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 561E665B252E423E006107C8 /* Build configuration list for PBXProject "Save2TextFile" */;
+			buildConfigurationList = 561E665B252E423E006107C8 /* Build configuration list for PBXProject "Save2TextFileJohnG" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				561E665F252E423E006107C8 /* Save2TextFile */,
+				561E665F252E423E006107C8 /* Save2TextFileJohnG */,
 			);
 		};
 /* End PBXProject section */
@@ -291,7 +291,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.HelloWorld.Save2TextFile;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Save2TextFileJohnGJohnG;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -308,7 +308,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.HelloWorld.Save2TextFile;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Save2TextFileJohnGJohnG;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		561E665B252E423E006107C8 /* Build configuration list for PBXProject "Save2TextFile" */ = {
+		561E665B252E423E006107C8 /* Build configuration list for PBXProject "Save2TextFileJohnG" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				561E6672252E4240006107C8 /* Debug */,
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		561E6674252E4240006107C8 /* Build configuration list for PBXNativeTarget "Save2TextFile" */ = {
+		561E6674252E4240006107C8 /* Build configuration list for PBXNativeTarget "Save2TextFileJohnG" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				561E6675252E4240006107C8 /* Debug */,
